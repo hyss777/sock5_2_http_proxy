@@ -11,7 +11,7 @@ xxx, and xxx
 require: python2.7+
 
 To run it:
-cd PATH/TO/WHERE/main.py/EXISTS
+cd PATH/TO/WHERE/main.py/EXISTS;
 python main.py
 
 then you can get a proxy at 8080, which use a sock5 proxy at 7070
